@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a repository of Data Structures and Algorithms](https://github.com/trizcard/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning **about Evolutionary Computation**
+- 🌱 I’m currently learning **about GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trizcard?tab=repositories](https://github.com/trizcard?tab=repositories)
 
