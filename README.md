@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Beatriz Cardoso</h1>
-<h3 align="center">A brazilian Computer Engineering student at the University of São Paulo</h3>
-
-- 🔭 I’m currently working on [a repository of Data Structures and Algorithms](https://github.com/trizcard/Data-Structures-and-Algorithms)
-
-- 🌱 I’m currently learning **about GoLang**
+<h3 align="center">A brazilian Computer Engineer who graduated from the University of São Paulo and currently work as a Software Engineer at Uber</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/trizcard?tab=repositories](https://github.com/trizcard?tab=repositories)
-
-- 📫 How to reach me **beatrizco@usp.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beatriz-cardoso-de-oliveira-423875226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz-cardoso-de-oliveira-423875226" height="30" width="40" /></a>
-<a href="https://instagram.com/trizcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizcard" height="30" width="40" /></a>
+<a href="https://instagram.com/beatrizccard_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beatrizccard_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
